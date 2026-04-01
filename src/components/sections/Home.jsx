@@ -3,7 +3,7 @@ import RevealOnScroll from "./RevealOnScroll";
 import profilePic from "../../assets/logo.jpg";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
-import Resume from "../../assets/Resume.pdf";
+import Resume from "../../assets/Sai_Sasank_Gunji_SDE_Resume (1).pdf";
 
 const Home = () => {
   return (

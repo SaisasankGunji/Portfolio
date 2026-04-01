@@ -2,10 +2,24 @@ import React from "react";
 import RevealOnScroll from "./RevealOnScroll";
 
 const About = () => {
-  const frontendSkills = ["HTML/CSS", "JavaScript", "React", "TailwindCSS"];
+  const frontendSkills = [
+    "HTML/CSS",
+    "JavaScript",
+    "React",
+    "TailwindCSS",
+    "Material UI",
+  ];
   const backendSkills = ["Node.js", "ExpressJS", "MongoDB", "MySQL"];
   const programmingLanguages = ["Java", "Python", "C", "JavaScript"];
-  const developerTools = ["Github", "VS Code", "Eclipse", "Git", "Vercel"];
+  const developerTools = [
+    "Github",
+    "VS Code",
+    "Eclipse",
+    "Git",
+    "Vercel",
+    "Firebase",
+    "AWS EC2",
+  ];
   return (
     <section
       id="about"
@@ -96,7 +110,7 @@ const About = () => {
                   <strong>B.Tech in Computer Science & Engineering</strong> -
                   Parul Institute of Engineering and Technology (2022-2026)
                   <span className="absolute right-0">
-                    <strong> Grade: </strong>7.99
+                    <strong> Grade: </strong>8.02
                   </span>
                 </li>
 
